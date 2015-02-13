@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "kk3399",
-    "repositoryName": "kk3399.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"kk3399","repositoryName":"kk3399.github.io","branch":"master"},"site":{"title":"blog","description":"a sample blog","url":"http://kk3399.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://kk3399.github.io/themes/Casper"}}
