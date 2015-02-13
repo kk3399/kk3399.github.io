@@ -1,0 +1,4 @@
+= Sample post
+== Sample heading
+
+a sample post
